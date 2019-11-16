@@ -12,6 +12,8 @@ description: > # "Write an awesome description for your new site here.
 copyright: 'Copyright &copy; 2019 AVP Software Limited. All Rights Reserved.'
 credits: 'AVP Software Limited'
 
+favicon_img_path: "img/favicon.ico"
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #

@@ -1,0 +1,8 @@
+---
+layout: default
+img: training.png
+category: Services
+title: Training courses
+description: |
+---
+  We offer training courses for companies on TDD (Test Driven Development), Extreme Programming, SOLID principles, and Refactoring. These courses can be adapted to the client needs, and we offer them in different formats and durations (1 to 3 days). Please contact us if you want to know more details.

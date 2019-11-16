@@ -1,0 +1,8 @@
+---
+layout: default
+img: background.png
+category: Services
+title: Technical background and industry experience
+description: |
+---
+We are specialists in Java, Spring, Cloud Native, backend development and distributed systems. We have a wide experience in different industries, including finance, medical, automotive and startups.
